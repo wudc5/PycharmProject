@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+# created by wudc
 import sys
 import urllib
 import requests
